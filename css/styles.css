@@ -1,0 +1,17 @@
+.sidebar {
+  float: right;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+.live {
+  float: left;
+  width: 300px;
+
+}
+h1 {
+  text-align: center;
+}
